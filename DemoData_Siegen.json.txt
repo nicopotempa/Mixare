@@ -1,7 +1,0 @@
-{
-"status": "OK", "num_results": 2, "results": 
-[ 
-{ "id": "1", "lat": "50.875906", "lng": "8.019509", "elevation": "240", "title": "Universität Siegen, Herrengarten", "has_detail_page": "1", "webpage": "https://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/herrengarten.html" },
-{ "id": "2", "lat": "50.873871", "lng": "8.020273", "elevation": "250", "title": "Martinikirche", "has_detail_page": "1", "webpage": "http://www.martini-siegen.de/" }
-]
-}
