@@ -1,7 +1,7 @@
 {
     "status": "OK",
     "num_results": 1,
-    "geonames": [
+    "results": [
         {
             "id": "Herrengarten",
             "lat": "50.8756801",
